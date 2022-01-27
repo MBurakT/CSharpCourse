@@ -12,9 +12,14 @@ namespace TypesAndVariables
         {
             //Value Types
             //Console.WriteLine("Hello World!");
-            int number1 = 10;
-            Console.WriteLine("Number is {0}", number1);
+            var number1 = 10;
+            Console.WriteLine("Number is {0} {1}", number1, Days.Monday);
             Console.ReadLine();
         }
+    }
+
+    enum Days
+    {
+        Monday=1,Tuesday,Wednesday,Thursday,Fridey,Saturday,Sunday
     }
 }
