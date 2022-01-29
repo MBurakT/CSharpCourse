@@ -5,7 +5,12 @@
       "ProjectGuid": "8227e893-9e7c-40b5-a9db-454e5bac3d25",
       "DisplayName": "TypesAndVariables",
       "ColorIndex": 0
+    },
+    "e4d0ad57-179e-4521-a5de-233bd01f23c6": {
+      "ProjectGuid": "e4d0ad57-179e-4521-a5de-233bd01f23c6",
+      "DisplayName": "Conditionals",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
