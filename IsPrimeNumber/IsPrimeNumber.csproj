@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EEB70EF9-5A63-44CA-A7B1-0177D34C52DB}</ProjectGuid>
+    <ProjectGuid>{26B4018D-B348-408C-B5EB-A7406C0F924E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>AsalSayi</RootNamespace>
-    <AssemblyName>AsalSayi</AssemblyName>
+    <RootNamespace>IsPrimeNumber</RootNamespace>
+    <AssemblyName>IsPrimeNumber</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

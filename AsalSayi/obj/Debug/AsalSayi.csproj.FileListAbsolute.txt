@@ -1,8 +1,0 @@
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\bin\Debug\AsalSayi.exe.config
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\bin\Debug\AsalSayi.exe
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\bin\Debug\AsalSayi.pdb
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\obj\Debug\AsalSayi.csproj.AssemblyReference.cache
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\obj\Debug\AsalSayi.csproj.SuggestedBindingRedirects.cache
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\obj\Debug\AsalSayi.csproj.CoreCompileInputs.cache
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\obj\Debug\AsalSayi.exe
-C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AsalSayi\obj\Debug\AsalSayi.pdb

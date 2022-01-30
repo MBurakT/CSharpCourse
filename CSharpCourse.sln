@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{5B3651E3-BD88-497B-8ADF-9D3A8C1F0A22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsalSayi", "AsalSayi\AsalSayi.csproj", "{EEB70EF9-5A63-44CA-A7B1-0177D34C52DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsPrimeNumber", "AsalSayi\IsPrimeNumber.csproj", "{EEB70EF9-5A63-44CA-A7B1-0177D34C52DB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

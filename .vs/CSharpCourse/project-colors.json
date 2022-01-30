@@ -10,7 +10,27 @@
       "ProjectGuid": "e4d0ad57-179e-4521-a5de-233bd01f23c6",
       "DisplayName": "Conditionals",
       "ColorIndex": 1
+    },
+    "576be812-2b2d-4ce6-9fd0-2e1826e59003": {
+      "ProjectGuid": "576be812-2b2d-4ce6-9fd0-2e1826e59003",
+      "DisplayName": "Methods",
+      "ColorIndex": 2
+    },
+    "9201740e-c388-453e-9bcf-9efd02f91499": {
+      "ProjectGuid": "9201740e-c388-453e-9bcf-9efd02f91499",
+      "DisplayName": "Arrays",
+      "ColorIndex": 3
+    },
+    "5b3651e3-bd88-497b-8adf-9d3a8c1f0a22": {
+      "ProjectGuid": "5b3651e3-bd88-497b-8adf-9d3a8c1f0a22",
+      "DisplayName": "Loops",
+      "ColorIndex": 4
+    },
+    "eeb70ef9-5a63-44ca-a7b1-0177d34c52db": {
+      "ProjectGuid": "eeb70ef9-5a63-44ca-a7b1-0177d34c52db",
+      "DisplayName": "IsPrimeNumber",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }
