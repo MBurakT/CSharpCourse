@@ -42,6 +42,7 @@ namespace Methods
         static int Multiply(int number1, int number2, int number3)
         {
             return number1 * number2 * number3;
+
         }
         static int Add4(int number1, params int[] numbers)
         {
