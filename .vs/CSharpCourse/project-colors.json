@@ -40,7 +40,12 @@
       "ProjectGuid": "fa699aff-1160-4158-8866-a73e3d6e30e9",
       "DisplayName": "Strings",
       "ColorIndex": 7
+    },
+    "a3e7f7a1-f4ee-408b-b472-7c8c24aa0b96": {
+      "ProjectGuid": "a3e7f7a1-f4ee-408b-b472-7c8c24aa0b96",
+      "DisplayName": "Classes",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
