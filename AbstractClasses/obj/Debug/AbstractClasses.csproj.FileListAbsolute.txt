@@ -1,0 +1,7 @@
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.SuggestedBindingRedirects.cache
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.csproj.CoreCompileInputs.cache
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\AbstractClasses\obj\Debug\AbstractClasses.pdb
