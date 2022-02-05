@@ -18,7 +18,6 @@ namespace Classes
                 Id = 2, City = "İstanbul", FirstName = "Fkymon", LastName = "Turhan"
             };
 
-
             customer.City = "Bilecik";
             customer.Id = 1;
             customer.FirstName = "Burak";
