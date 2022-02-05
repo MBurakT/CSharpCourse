@@ -5,3 +5,4 @@ C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\InterfacesDemo\obj\Debug\In
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.exe
 C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
+C:\Users\mbtbr\OneDrive\Belgeler\VS.NET\CSharpCourse\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.AssemblyReference.cache
