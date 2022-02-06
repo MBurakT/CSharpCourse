@@ -45,7 +45,42 @@
       "ProjectGuid": "a3e7f7a1-f4ee-408b-b472-7c8c24aa0b96",
       "DisplayName": "Classes",
       "ColorIndex": 8
+    },
+    "4a8e0cea-cd74-4f7c-a017-c166ade25143": {
+      "ProjectGuid": "4a8e0cea-cd74-4f7c-a017-c166ade25143",
+      "DisplayName": "RecapDemo1",
+      "ColorIndex": 9
+    },
+    "0a063d8f-92db-4f36-b06b-d4fabf17c8a6": {
+      "ProjectGuid": "0a063d8f-92db-4f36-b06b-d4fabf17c8a6",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 10
+    },
+    "79a2e8e5-40f4-442d-aab9-3af602f7eb2d": {
+      "ProjectGuid": "79a2e8e5-40f4-442d-aab9-3af602f7eb2d",
+      "DisplayName": "InterfacesDemo",
+      "ColorIndex": 11
+    },
+    "aafc0265-a0ae-437d-ad50-3707193f173d": {
+      "ProjectGuid": "aafc0265-a0ae-437d-ad50-3707193f173d",
+      "DisplayName": "Inheritance",
+      "ColorIndex": 12
+    },
+    "dba692b0-8afa-4c34-a487-8b6888d4d235": {
+      "ProjectGuid": "dba692b0-8afa-4c34-a487-8b6888d4d235",
+      "DisplayName": "VirtualMethods",
+      "ColorIndex": 13
+    },
+    "ee4f0aa3-ce1b-4fa5-8254-c16ec2f2e114": {
+      "ProjectGuid": "ee4f0aa3-ce1b-4fa5-8254-c16ec2f2e114",
+      "DisplayName": "AbstractClasses",
+      "ColorIndex": 14
+    },
+    "cb42d9c2-6852-43c2-86cc-8c8f585368c6": {
+      "ProjectGuid": "cb42d9c2-6852-43c2-86cc-8c8f585368c6",
+      "DisplayName": "RecapDemo2",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 9
+  "NextColorIndex": 0
 }
