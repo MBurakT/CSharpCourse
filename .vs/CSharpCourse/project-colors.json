@@ -80,7 +80,32 @@
       "ProjectGuid": "cb42d9c2-6852-43c2-86cc-8c8f585368c6",
       "DisplayName": "RecapDemo2",
       "ColorIndex": 15
+    },
+    "dbe19826-c4f1-4dfb-ae18-d940ead6fcaa": {
+      "ProjectGuid": "dbe19826-c4f1-4dfb-ae18-d940ead6fcaa",
+      "DisplayName": "AccessModifiers",
+      "ColorIndex": 0
+    },
+    "4508c554-f434-4497-a97a-66e111d77878": {
+      "ProjectGuid": "4508c554-f434-4497-a97a-66e111d77878",
+      "DisplayName": "AccessModifiersDemo",
+      "ColorIndex": 1
+    },
+    "8caddfef-8020-4af4-9435-bc1619af0b28": {
+      "ProjectGuid": "8caddfef-8020-4af4-9435-bc1619af0b28",
+      "DisplayName": "Constructors",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bb71b722-90e9-4cda-9fa3-3873fa2d7c68": {
+      "ProjectGuid": "bb71b722-90e9-4cda-9fa3-3873fa2d7c68",
+      "DisplayName": "ReferenceAndValueType",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 4
 }
