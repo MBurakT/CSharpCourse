@@ -105,7 +105,22 @@
       "ProjectGuid": "bb71b722-90e9-4cda-9fa3-3873fa2d7c68",
       "DisplayName": "ReferenceAndValueType",
       "ColorIndex": 3
+    },
+    "4f2d9078-168c-484b-a927-6afac7d87dc1": {
+      "ProjectGuid": "4f2d9078-168c-484b-a927-6afac7d87dc1",
+      "DisplayName": "Collections",
+      "ColorIndex": 4
+    },
+    "098be8d4-1be4-4962-8d71-cb88ae68b94c": {
+      "ProjectGuid": "098be8d4-1be4-4962-8d71-cb88ae68b94c",
+      "DisplayName": "Exceptions",
+      "ColorIndex": 5
+    },
+    "69dd9b85-a76a-44cb-960c-5190111cfae1": {
+      "ProjectGuid": "69dd9b85-a76a-44cb-960c-5190111cfae1",
+      "DisplayName": "AdoNetDemo",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 7
 }
