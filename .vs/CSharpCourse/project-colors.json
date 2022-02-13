@@ -120,7 +120,12 @@
       "ProjectGuid": "69dd9b85-a76a-44cb-960c-5190111cfae1",
       "DisplayName": "AdoNetDemo",
       "ColorIndex": 6
+    },
+    "5d37104b-fd36-4976-83b9-529964b97007": {
+      "ProjectGuid": "5d37104b-fd36-4976-83b9-529964b97007",
+      "DisplayName": "EntityFrameworkDemo",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }
