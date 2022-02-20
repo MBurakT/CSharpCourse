@@ -125,7 +125,17 @@
       "ProjectGuid": "5d37104b-fd36-4976-83b9-529964b97007",
       "DisplayName": "EntityFrameworkDemo",
       "ColorIndex": 7
+    },
+    "4ecf2fa1-cdc5-4b13-84de-9d04db911426": {
+      "ProjectGuid": "4ecf2fa1-cdc5-4b13-84de-9d04db911426",
+      "DisplayName": "Generics",
+      "ColorIndex": 8
+    },
+    "32005e32-329e-4038-a8eb-ecdf8ebaa0ab": {
+      "ProjectGuid": "32005e32-329e-4038-a8eb-ecdf8ebaa0ab",
+      "DisplayName": "Attributes",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 10
 }
