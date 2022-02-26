@@ -135,7 +135,22 @@
       "ProjectGuid": "32005e32-329e-4038-a8eb-ecdf8ebaa0ab",
       "DisplayName": "Attributes",
       "ColorIndex": 9
+    },
+    "8d5ab00c-c609-4ed8-8d4f-4d55138865b6": {
+      "ProjectGuid": "8d5ab00c-c609-4ed8-8d4f-4d55138865b6",
+      "DisplayName": "Reflection",
+      "ColorIndex": 10
+    },
+    "96303b95-41e7-4fcf-bede-e5bc419f8fb3": {
+      "ProjectGuid": "96303b95-41e7-4fcf-bede-e5bc419f8fb3",
+      "DisplayName": "Delegates",
+      "ColorIndex": 11
+    },
+    "33d2c723-4cfc-47af-aae7-b87e36ddd029": {
+      "ProjectGuid": "33d2c723-4cfc-47af-aae7-b87e36ddd029",
+      "DisplayName": "Events",
+      "ColorIndex": 12
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 13
 }
