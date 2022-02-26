@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Exceptions
@@ -12,13 +13,42 @@ namespace Exceptions
         {
             //ExceptionIntro();
 
-            HandleException(() => {
-                Find();
-            });
+            //ActionDemo();
+
+            //Func bir şey döndürmek zorunda, Action ise void döndürür
+            Func<int, int, int> add = Topla;
+
+            Console.WriteLine(add(3, 4));
+
+            Func<int> getRandomNumber = delegate ()
+            {
+                Random random = new Random();
+                return random.Next(1, 100);
+            };
+
+            Func<int> getRandomNumber2 = () => new Random().Next(1, 100);
+
+            Console.WriteLine(getRandomNumber());
+            //2 saniye bekle
+            Thread.Sleep(1000);
+            Console.WriteLine(getRandomNumber2());
 
             // Do Not Auto Close, Write Code Executed İnfo, Enter Something To Close
             Console.WriteLine("#Kod çalıştı#");
             Console.ReadLine();
+        }
+
+        static int Topla(int x, int y)
+        {
+            return x + y;
+        }
+
+        private static void ActionDemo()
+        {
+            HandleException(() =>
+            {
+                Find();
+            });
         }
 
         private static void HandleException(Action action)
@@ -26,6 +56,10 @@ namespace Exceptions
             try
             {
                 action.Invoke();
+            }
+            catch (RecordNotFoundException recordNotFoundException)
+            {
+                Console.WriteLine(recordNotFoundException.Message);
             }
             catch (Exception exception)
             {
